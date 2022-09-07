@@ -6,5 +6,7 @@ public class TestApp {
         System.out.println("The second commit");
 
         System.out.println("The third commit");
+
+        System.out.println("The forth commit");
     }
 }
